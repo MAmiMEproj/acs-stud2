@@ -1,0 +1,11 @@
+req name:
+req id:
+req type(sys, sw, hw):
+sil level (sil level a,b,c,d non):
+req body:
+req author(name, email):
+last author(name, email):
+req date(DD.MM.YYYY):
+req last date(DD.MM.YYYY):
+req status(open, released, freezed, rejected, review, reviewed):
+ 
