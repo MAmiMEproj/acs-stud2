@@ -1,6 +1,6 @@
 req name:
 req id:
-req type(sys, sw, hw):
+req type: hw
 sil level (sil level a,b,c,d non):
 req body:
 req author(name, email):
